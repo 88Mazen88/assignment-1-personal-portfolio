@@ -1,0 +1,274 @@
+.page {
+    background-color: #1a4a7e;
+    width: 770px;
+    height: 205px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 22%;
+    color: #ffffff;
+    border-radius: 20px;
+
+
+}
+
+.clear {
+    clear: both;
+}
+
+
+.about {
+    float: left;
+    font-size: 13px;
+    margin: 10px 180px;
+    border-radius: 30px;
+    margin-bottom: 90px;
+
+
+}
+
+.about h2 {
+    float: left;
+    margin: 10px;
+}
+
+.about .about-title a {
+    background-color: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    color: white;
+    border-radius: 20px;
+    padding: 8px;
+    text-decoration: none;
+
+}
+
+.d1 {
+    background-color: #ffffff;
+    width: 50%;
+    height: 290px;
+    margin-left: 22%;
+    margin-top: 20px;
+    padding: 25px 30px;
+    border-radius: 20px;
+    text-align: left;
+    box-shadow: 0 6px 20px rgba(20, 60, 110, 0.15);
+}
+
+.d1 h1 {
+    color: #0d3b6e;
+    font-size: 26px;
+    padding-bottom: 18px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #dce8f5;
+}
+
+.d1-info {
+    margin-left: 215px;
+    padding-top: 25px;
+}
+
+.d1-info p {
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+
+.d1-info p span {
+    color: #0a66b0;
+}
+
+.link a {
+    background-color: #0a66b0;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 15px;
+    padding: 10px 22px;
+    border-radius: 8px;
+
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+}
+
+
+
+
+
+.d2 {
+    background-color: #ffffff;
+    width: 50%;
+    margin-left: 22%;
+    margin-top: 20px;
+    padding: 25px 30px;
+    border-radius: 20px;
+    text-align: left;
+    box-shadow: 0 6px 20px rgba(20, 60, 110, 0.15);
+}
+
+.d2 h1 {
+    color: #0d3b6e;
+    font-size: 26px;
+    padding-bottom: 18px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #dce8f5;
+}
+
+.d2-text {
+    font-size: 14px;
+    color: #1a202c;
+    margin-bottom: 25px;
+}
+
+.skill {
+    margin-bottom: 20px;
+    float: left;
+    width: 120px;
+    margin-right: 2.6%;
+    padding: 22px;
+    background-color: #f7faff;
+    border-bottom: 1px solid #dce8f5;
+    border-radius: 16px;
+    box-shadow: 0 6px 14px rgba(30, 90, 160, 0.12);
+}
+
+
+.skill h3 {
+    color: #0d3b6e;
+    font-size: 17px;
+}
+
+
+
+
+
+.clear {
+    clear: both;
+}
+
+
+
+
+
+
+
+
+.d3 {
+    background-color: #ffffff;
+    margin-left: 22%;
+    margin-top: 20px;
+    width: 50%;
+    margin-top: 20px;
+    padding: 25px 30px;
+    border-radius: 20px;
+    text-align: left;
+    box-shadow: 0 6px 20px rgba(20, 60, 110, 0.15);
+}
+
+.d3 h1 {
+    color: #0d3b6e;
+    font-size: 26px;
+    padding-bottom: 18px;
+    margin-bottom: 25px;
+    border-bottom: 1px solid #dce8f5;
+}
+
+.job {
+    background-color: #f8f9fb;
+    border: 1px solid #e8eef5;
+    border-left: 5px solid #0d3b6e;
+    border-radius: 14px;
+    padding: 22px 25px;
+    margin-bottom: 25px;
+}
+
+.job-logo {
+    float: left;
+    width: 80px;
+    height: 80px;
+    border-radius: 14px;
+    padding: 12px;
+}
+
+
+.job-info h3 {
+    color: black;
+    font-size: 17px;
+    margin-bottom: 18px;
+    margin-left: 130px;
+}
+
+.job-company {
+    color: #0a66b0;
+    font-size: 15px;
+    margin-bottom: 18px;
+    margin-left: 130px;
+}
+
+.job-date {
+    font-size: 15px;
+    margin-bottom: 18px;
+    margin-left: 130px;
+}
+
+
+
+.d4 {
+    background-color: #1a4a7e;
+    margin-left: 22%;
+    margin-top: 20px;
+    width: 50%;
+    margin-top: 20px;
+    padding: 25px 30px;
+    border-radius: 20px;
+    text-align: left;
+    box-shadow: 0 6px 20px rgba(20, 60, 110, 0.15);
+}
+
+.d4 h1 {
+  color: #ffffff;
+  font-size: 26px;
+  padding-bottom: 18px;
+  margin-bottom: 25px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.d4-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin-bottom: 25px;
+}
+
+.contact-link {
+  float: left;
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #ffffff;
+  font-size: 14px;
+  padding: 14px 18px;
+  margin-right: 12px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+
+
+
+
+.d5 {
+  background-color: #061a37;
+  width: 760px;
+  margin-left: 22%;
+  margin-top: 20px;
+  padding: 45px 30px;
+  border-radius: 20px;
+  text-align: center;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.d5 span {
+  color: #7cc4ff;
+}
